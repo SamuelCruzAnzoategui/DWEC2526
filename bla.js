@@ -1,0 +1,11 @@
+//alert("Hola Mundo");
+//confirm("Hola Mundo");
+//prompt("Hola Mundo");
+//console.log("Hola me llamo Samuel");
+//alert("Hola " + nombre);
+//var edad = prompt("¿Cuántos años tienes?");
+//var nombre = prompt("¿Cómo te llamas?");
+//console.log("Hola " + nombre + " tienes " + edad + " años");
+var futbolista = "messi";
+futbolista = prompt("¿Tu futbolista TOP?");
+console.log(futbolista);
